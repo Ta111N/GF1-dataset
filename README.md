@@ -5,4 +5,4 @@ In this study, GF-1 WFV multispectral images were selected. Specifically, this p
 Specifically, the global distribution of the dataset is as follows：  
 ![Image text](https://github.com/Ta111N/GF1-dataset/blob/main/image.png)  
 ## Dataset Access  
-Dataset is available in BaiduDisk : [BaiduDisk](https://www.baidu.com/](https://pan.baidu.com/s/1kTZTUO4aNGuLq5V5goINRA)https://pan.baidu.com/s/1kTZTUO4aNGuLq5V5goINRA/) (extracting code:bh1y)
+Dataset is available in BaiduDisk : [BaiduDisk](https://www.baidu.com/](https://pan.baidu.com/s/1kTZTUO4aNGuLq5V5goINRA)https://pan.baidu.com/s/1kTZTUO4aNGuLq5V5goINRA) (extracting code:bh1y)
